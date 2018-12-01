@@ -1,1 +1,1 @@
-# spring-practice
+# Amruta Practice
